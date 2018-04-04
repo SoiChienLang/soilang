@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1522775125 source:d:\projects\project3\main.cpp
+	<conio.h>
+	"Map.h"
+	"tankPlayer.h"
+	"tankRobot.h"
+
+1522766547 d:\projects\project3\map.h
+	<windows.h>
+	<vector>
+
+1522766547 d:\projects\project3\tankplayer.h
+	<cstring>
+	<windows.h>
+	<iostream>
+
+1522775077 d:\projects\project3\tankrobot.h
+	<cstring>
+	<windows.h>
+	<iostream>
+	"tankPlayer.h"
+	<time.h>
+
+1522774150 source:d:\projects\project3\map.cpp
+	"Map.h"
+	<iostream>
+
+1522773700 source:d:\projects\project3\tankplayer.cpp
+	"tankPlayer.h"
+	"Map.h"
+	"tankRobot.h"
+
+1522775077 source:d:\projects\project3\tankrobot.cpp
+	"tankRobot.h"
+	"Map.h"
+
